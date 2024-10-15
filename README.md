@@ -1,2 +1,2 @@
 # mnau_tym
-adel,sofi,anis
+adel, sofi, anis, majda
